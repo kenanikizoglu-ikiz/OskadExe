@@ -1,0 +1,2 @@
+# OskadExe
+Oskad program guncellemeleri
